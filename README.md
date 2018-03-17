@@ -4,5 +4,5 @@ These are my solutions to the assignments of the great stanford course by Richar
 ## Checklist
 - [x] Assignment1
 - [x] Assignment2
-- [ ] Assignment3
+- [x] Assignment3
 - [ ] Project \*Assignment4\*
